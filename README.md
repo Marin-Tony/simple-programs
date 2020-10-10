@@ -1,2 +1,2 @@
 # simple-programs
-This repository contains basic programs 
+This repository contains basic programs in Python
